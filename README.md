@@ -1,7 +1,7 @@
 # !Hola¡ 👋  Cesar Rodriguez
 
 
-### Gerente de sistemas SR | Implementación de nuevos proyectos | apasionado por la ciberseguridad y pentesting | Uso e implementación de herramientas de seguridad, XDR, SIEM Firewall Fortinet | conocimientos en servidores locales y nube AWS Google | nivel experto en manejo de Linux, IOS y Windows 
+### Gerente de sistemas SR | Implementación de nuevos proyectos | apasionado por la ciberseguridad y pentesting | Uso e implementación de herramientas de seguridad, XDR, SIEM Firewall Fortinet | conocimientos en servidores locales y nube AWS Google | uso de Linux, IOS y Windows 
 
 
 Hola!!! Me encanta todo lo de ciberseguridad y pentesting, uso de herramientas para poder automatizar todo lo que se pueda en una empresa y que sea de forna nativa o automática, esto me ha llevado a tener muchos proyectos muy interesantes en los cuales he 
